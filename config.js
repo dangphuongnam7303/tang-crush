@@ -1,0 +1,16 @@
+const CONFIG = {
+  introTitle: "Chào em",
+  introDesc: `Đoán xem chuyện gì xảy ra tiếp theo nào =)))`,
+  btnIntro: "Dzaaaaaa",
+  title: "Tôi cho phép em yêu tôi đấy  (•◡•)",
+  desc: "Ý em sao? ",
+  btnYes: "Yêu anh <33",
+  btnNo: "Không, anh bị đin à >.<",
+  question: "Trên thế giới hơn 7 tỉ người mà đối với anh nụ cười của em vấn luôn là đẹp nhất =)))",
+  btnReply: "Chờ gì nữa mà không trả lời <3",
+  reply: "Mãi yêu anh Nam",
+  mess: "Tôi biết mà, cơ hội của em đây rồi nên em hãy nhanh tay lên nào",
+  messDesc: "Xách đít lên đi cùng tôi đến cuối đường nhé =)))",
+  btnAccept: "Okiiiii lun <3",
+  messLink: "https://m.me/DangPhuongNam733", 
+};
